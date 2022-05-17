@@ -66,8 +66,6 @@ end
 
 I m -[DARBAL nour-elhouda](https://github.com/teamkhaoulanour)
 
-Project Link: [Algorithme](https://https:/https://github.com/Darbal-Nour-elhouda/algorithme-de-simplexe)
-
 Encadré par : [Mme Majda ](https://)
 
 
